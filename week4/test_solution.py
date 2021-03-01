@@ -1,6 +1,8 @@
 import os
 from solution import *
-path_to_file = 'some_filename'
+
+# таким образом можно создавать любое древо каталогов
+path_to_file = 'folder1/folder2/../folder3/some_filename'
 print(os.path.exists(path_to_file))
 
 file_obj = File(path_to_file)

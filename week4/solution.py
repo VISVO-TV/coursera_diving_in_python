@@ -55,7 +55,8 @@ class File:
 
 
     def __str__(self):
-        return os.path.join(os.getcwd(), self.path)
+        print()
+        return os.path.abspath(self.path)
 
 
     def __add__(self, obj):
@@ -72,6 +73,7 @@ class File:
 
     def __iter__(self):
         return self
+
 
     def __next__(self):
         list = self.read().split('\n')
