@@ -9,5 +9,6 @@ All tasks divided into weeks. Some tasks were changed.
 
 ## For any questions is:
 
-##### [gmail](visvo.tv.hub@gmail.com)
-##### [![](//placehold.it/200x100/0000FF/808080?Text=linkedin.com)](https://www.linkedin.com/in/%D0%B4%D0%B8%D0%BC%D0%B0-visvo-tv-251727200/)
+### [gmail](visvo.tv.hub@gmail.com)
+
+### [linkedin](https://www.linkedin.com/in/%D0%B4%D0%B8%D0%BC%D0%B0-visvo-tv-251727200/)
