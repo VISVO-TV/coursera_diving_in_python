@@ -2,7 +2,7 @@
 
 
 This place for my completed tasks from site 
-#### "www.coursera.org/learn/diving-in-python"
+#### www.coursera.org/learn/diving-in-python
 Thanks very much creaters. It helped me understend some things. 
 
 All tasks divided into weeks. Some tasks were changed.
